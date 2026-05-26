@@ -11,7 +11,7 @@ export function Footer() {
         <div className="text-center">
           Secure · Restricted · Intelligence Use Only
         </div>
-        <div>NODE GST-07 · v4.0712</div>
+        <div>The Octagon, Singapore · 069534</div>
       </div>
     </footer>
   );
