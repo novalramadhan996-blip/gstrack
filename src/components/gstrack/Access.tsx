@@ -32,14 +32,14 @@ export function Access() {
 
               <div className="mt-8 flex flex-wrap items-center gap-4">
                 <a
-                  href="https://mail.google.com/mail/?view=cm&fs=1&to=yourmail@email.com&su=Request%20for%20Demo"
+                  href="https://mail.google.com/mail/?view=cm&fs=1&to=connect@gstrack.tech&su=Request%20for%20Demo"
                   className="group relative inline-flex items-center gap-3 overflow-hidden rounded-sm border border-intel/60 bg-gradient-to-br from-intel/30 to-intel/10 px-7 py-4 font-mono text-xs uppercase tracking-[0.3em] text-foreground transition-all hover:border-intel hover:shadow-[var(--shadow-glow-intel)]"
                 >
                   Request Access
                   <span className="text-intel transition-transform group-hover:translate-x-1">→</span>
                 </a>
                 <a
-                  href="https://mail.google.com/mail/?view=cm&fs=1&to=yourmail@email.com&su=Joining%20The%20Team"
+                  href="https://mail.google.com/mail/?view=cm&fs=1&to=connect@gstrack.tech&su=Joining%20The%20Team"
                   className="inline-flex items-center gap-3 rounded-sm border border-panel-border bg-card/40 px-7 py-4 font-mono text-xs uppercase tracking-[0.3em] text-foreground transition-colors hover:border-foreground/40 hover:bg-card"
                 >
                   Apply Job
